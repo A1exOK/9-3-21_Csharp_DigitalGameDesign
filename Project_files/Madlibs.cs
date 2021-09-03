@@ -19,7 +19,7 @@ namespace MadLibs
       string title = " || Alex's Madlibs Program || ";
 
       Console.WriteLine(title);
-      // Define user input and variables:
+      // Define user input and variables: 
       Console.WriteLine("\n Enter a name: ");
       string name1 = Console.ReadLine();
 
