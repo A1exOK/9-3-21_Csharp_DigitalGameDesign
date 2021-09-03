@@ -13,6 +13,9 @@ Path- "A1exOK\Coding_Projects_1\Project_images\Money_Counter\"
 <br><i>Program Source Files: </i></br>
 Path- "A1exOK\Coding_Projects_1\Project_files\"
 
+<b>Test</b>
+<i><br>Images: </br></i>
+Path- "A1exOK\Coding_Projects_1\Project_images\"
 |============================================================================|
 
 <b>NOTE:</b>
