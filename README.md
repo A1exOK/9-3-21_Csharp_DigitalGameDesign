@@ -10,7 +10,7 @@ Path- "A1exOK\Coding_Projects_1\Project_files\"
 <b>Money Counter Program:</b>
 <i><br>Images: </br></i>
 Path- "A1exOK\Coding_Projects_1\Project_images\Money_Counter\"
-<i>Program Source Files: </i>
+<br><i>Program Source Files: </i></br>
 Path- "A1exOK\Coding_Projects_1\Project_files\"
 
 |======================================================================================|
