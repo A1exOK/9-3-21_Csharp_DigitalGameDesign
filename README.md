@@ -1,5 +1,5 @@
 # Coding Projects 1
-C# coding projects for Digital Game Design 1 
+<h3>Coding Projects for 9/3/21</h3>
 
 <b>Madlibs Program:</b>
 <i><br>Images: </br></i>
