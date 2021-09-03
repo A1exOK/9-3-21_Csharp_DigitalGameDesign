@@ -13,7 +13,7 @@ Path- "A1exOK\Coding_Projects_1\Project_images\Money_Counter\"
 <br><i>Program Source Files: </i></br>
 Path- "A1exOK\Coding_Projects_1\Project_files\"
 
-|======================================================================================|
+|===============================================================================|
 
 <b>NOTE:</b>
 Mr. Burton, I will be using this account to submit programming projects so that it is easier for both of us.
