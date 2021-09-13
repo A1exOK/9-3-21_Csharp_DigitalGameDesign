@@ -6,7 +6,7 @@ namespace MoneyMaker
   {
     public static void Main(string[] args)
     {
-             // [ Cents ==> Coins Program | By: Alex ] \\
+      // [ Cents ==> Coins Program | By: Alex ] \\
       /*
       This program will convert a given amount of cents to the nearest coin amount. 
       */
