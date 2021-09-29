@@ -60,7 +60,6 @@ namespace MadLibs
       string story = $"This morning {name1} woke up feeling {adj1}. 'It is going to be a {adj2} day!' Outside, a bunch of {animal1}s were protesting to keep {food1} in stores. They began to {verb1} to the rhythm of the {noun1}, which made all the {fruit1}s very {adj3}. Concerned, {name1} texted {superhero1}, who flew {name1} to {country1} and dropped {name1} in a puddle of frozen {dessert1}. {name1} woke up in the year {year1}, in a world where {noun2}s ruled the world.";
 
 
-
       // Print the story:
       Console.WriteLine(story);
     }
